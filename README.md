@@ -1,2 +1,2 @@
-# Financial-Dashboard-
+# Financial-Dashboard
 I have created Personal Finance Dashboard 
